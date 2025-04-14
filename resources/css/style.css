@@ -1,0 +1,26 @@
+body{
+    height: 1300px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+}
+
+.carta{
+    height: 190px;
+}
+
+.footer{
+    position: fixed;
+    display: flex;
+    width: 100%;
+}
+
+.dettaglioFooter{
+    color: white;
+    background-color: rgb(12, 12, 12);
+}

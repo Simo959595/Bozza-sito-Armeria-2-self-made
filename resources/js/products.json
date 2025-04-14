@@ -1,0 +1,23 @@
+[
+    {"name": "Fiat Bravo", "categoria": "Berlina", "prezzo": 3400, "colore": "verde",  "img": "https://picsum.photos/200"},
+{"name": "Alfa Romeo Giulietta", "categoria": "Berlina", "prezzo": 13000, "colore": "blu",   "img": "https://picsum.photos/201"},
+       {"name": "Bmw 740", "categoria": "Berlina", "prezzo": 16300, "colore": "giallo",   "img": "https://picsum.photos/202"},
+          {"name": "Bmw z4", "categoria": "Coupè", "prezzo": 44500, "colore": "azzurro",   "img": "https://picsum.photos/204"},
+       {"name": "Ford Puma", "categoria": "Coupè", "prezzo": 8700, "colore": "bianco",  "img": "https://picsum.photos/205"},
+     {"name": "Nissan Z350", "categoria": "Coupè", "prezzo": 34000, "colore": "nero",   "img": "https://picsum.photos/206"},
+    {"name": "Fiat Scudo", "categoria": "Furgone", "prezzo": 3200, "colore": "marrone",  "img": "https://picsum.photos/208"},
+    {"name": "Fiat Doblò", "categoria": "Furgone", "prezzo": 5500, "colore": "nero",  "img": "https://picsum.photos/209"},
+  {"name": "Ford Transit", "categoria": "Furgone", "prezzo": 6000, "colore": "bianco",  "img": "https://picsum.photos/210"},
+{"name": "Fiat Nuova 500", "categoria": "CityCar", "prezzo": 11000, "colore": "azzurro",   "img": "https://picsum.photos/212"},
+    {"name": "Fiat Panda", "categoria": "CityCar", "prezzo": 9000, "colore": "fuchsia",  "img": "https://picsum.photos/213"},
+    {"name": "Fiat Punto", "categoria": "CityCar", "prezzo": 10000, "colore": "marrone",   "img": "https://picsum.photos/214"},
+ {"name": "Cadillac Escalade", "categoria": "SUV", "prezzo": 21000, "colore": "bianco",   "img": "https://picsum.photos/216"},
+       {"name": "Kia Sorento", "categoria": "SUV", "prezzo": 5000, "colore": "blu",  "img": "https://picsum.photos/217"},
+      {"name": "Peugeot 3008", "categoria": "SUV", "prezzo": 22000, "colore": "verde",   "img": "https://picsum.photos/218"},
+{"name": "Hyunday Jazz", "categoria": "Monovolume", "prezzo": 1200, "colore": "rosso",  "img": "https://picsum.photos/220"},
+{"name": "Atos Eclipse", "categoria": "Monovolume", "prezzo": 800, "colore": "bianco", "img": "https://picsum.photos/221"},
+{"name": "Chevrolet Matiz", "categoria": "Monovolume", "prezzo": 500, "colore": "azzurro", "img": "https://picsum.photos/222"},
+{"name": "Ferrari Berlinetta F12", "categoria": "Supercar", "prezzo": 238000, "colore": "giallo",  "img": "https://picsum.photos/223"},
+{"name": "Fiat Uno turbo", "categoria": "BareConLeRuote", "prezzo": 18000, "colore": "nero", "img": "./media/carosello3.jpg"},
+{"name": "Mountain Bike Giant XTC", "categoria": "Altro", "prezzo": 1320, "colore": "grigio", "img": "./media/bici.webp"}
+]
